@@ -19,6 +19,9 @@ Sistema de Escritorio para la Gestión Integral del Hospital, diseñado para opt
 •	Función Llamado: Llamar y Re-Llamar a un paciente en específico.
 •	Comunicación Interna: Mensajería segura entre médicos, administrativos y pacientes.
 
+4. Dashboard interactivo
+•  Muestra los principales KPIs del negocio.
+
 ![Screenshot_1](https://github.com/user-attachments/assets/7af11c23-5892-4978-a636-34ccec96226d)
 ![Screenshot_2](https://github.com/user-attachments/assets/543e8fd5-21cc-44fb-80fc-5ef5dcf4382f)
 ![Screenshot_3](https://github.com/user-attachments/assets/021fa779-22e8-4596-8145-02587467927a)
